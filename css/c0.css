@@ -1,0 +1,143 @@
+@media screen and (max-width: 400px) {
+	.c00 {
+	width: 280px; /* 影片比例*/
+	
+	height:155px; /* 240黑邊顯示  */
+	
+	/*color: red; */
+	
+	}
+}
+
+@media screen and (min-width: 401px) and (max-width: 500px) {
+    
+	.c00 {
+	width: 380px; 
+	
+	height:210px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 501px) and (max-width: 578px) {
+    
+	.c00 {
+	width: 480px; 
+	
+	height:270px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 579px) and (max-width: 700px) {
+    
+	.c00 {
+	width: 365px; 
+	
+	height:200px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 701px) and (max-width: 722px) {
+    
+	.c00 {
+	width: 450px; 
+	
+	height:250px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 723px) and (max-width: 800px) {
+    
+	.c00 {
+	width: 465px; 
+	
+	height:260px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 801px) and (max-width: 900px) {
+    
+	.c00 {
+	width: 510px; 
+	
+	height:250px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 901px) and (max-width: 1200px) {
+    
+	.c00 {
+	width: 480px; 
+	
+	height:270px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1400px) {
+    
+	.c00 {
+	width: 600px; 
+	
+	height:330px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 1401px) and (max-width: 1600px) {
+    
+	.c00 {
+	width: 700px; 
+	
+	height:390px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 1601px) and (max-width: 1800px) {
+    
+	.c00 {
+	width: 780px; 
+	
+	height:430px;
+	
+	
+	
+	}
+}
+
+@media screen and (min-width: 1801px) {
+    
+	.c00 {
+	width: 800px; 
+	
+	height:450px;
+	
+	color: yellow;
+	
+	}	
+	
+}
